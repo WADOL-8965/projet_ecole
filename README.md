@@ -31,4 +31,4 @@ Les données proviennent d’un fichier CSV (`Ecole.csv`) contenant :
 - Seaborn  
 
 ##  Auteur
-Lemvo MILANDOU
+Christ LEMVO MILANDOU
